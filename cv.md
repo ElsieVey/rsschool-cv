@@ -12,7 +12,7 @@ E-mail: learsel@tut.by
 GitHub: ElsieVey
 
 # Summary
-I am currently taking courses at rs-school. I am interested in web development because this profession is fascinating and gives great prospects. I am purposeful and I like to develop myself,  so I believe that I will be able to master the profession.
+I am currently taking courses at RS School. I am interested in web development because this profession is fascinating and gives great prospects. I am purposeful and I like to develop myself, so I believe that I will be able to master the profession.
 
 # Skills
 - HTML
@@ -67,6 +67,7 @@ I am currently taking courses at rs-school. I am interested in web development b
   ```
   
 # Courses:
+Basics of HTML and CSS at Way Up school.
 RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 
 # Languages
